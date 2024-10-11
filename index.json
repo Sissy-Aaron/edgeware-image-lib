@@ -1,14 +1,38 @@
 {
     "images": [
         {
-            "id": 0,
-            "filename": "test.jpg",
+            "id": "077d1c58",
+            "filename": "077d1c58.jpg",
             "type": "IMAGE"
         },
         {
-            "id": 1,
-            "filename": "test.gif",
-            "type": "GIF"
+            "id": "aa0cddbf",
+            "filename": "aa0cddbf.png",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a290a1c1",
+            "filename": "a290a1c1.png",
+            "type": "IMAGE"
+        },
+        {
+            "id": "10555a59",
+            "filename": "10555a59.webp",
+            "type": "IMAGE"
+        },
+        {
+            "id": "9bd99052",
+            "filename": "9bd99052.png",
+            "type": "IMAGE"
+        },
+        {
+            "id": "a290a1c1",
+            "filename": "a290a1c1.png",
+            "type": "IMAGE"
+        }, 
+        {
+            "id": "580f659a",
+            "filename": "580f659a.png"
         }
     ]
 }
