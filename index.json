@@ -1,0 +1,14 @@
+{
+    "images": [
+        {
+            "id": 0,
+            "filename": "test.jpg",
+            "type": "IMAGE"
+        },
+        {
+            "id": 1,
+            "filename": "test.gif",
+            "type": "GIF"
+        }
+    ]
+}

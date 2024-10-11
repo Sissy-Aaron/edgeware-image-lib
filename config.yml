@@ -1,0 +1,7 @@
+version: 0.1
+goontime:
+  max: 1800 # 30 * 60 seconds
+  min: 300 # 5 * 60 seconds
+interval:
+  max: 900 # 5 * 60 seconds
+  min: 150 # 3 * 60 seconds
